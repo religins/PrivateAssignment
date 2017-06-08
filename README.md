@@ -15,7 +15,7 @@ Link APK <br>
 [link APK (mirror)](https://docs.google.com/uc?export=download&id=0B7oSPH8d9q3Fci1TdlM1V2NVRzA) <br>
 
 Alamat API yang digunakan pada Aplikasi<br>
-The Movie DB <br><br>
+The Movie DB[https://www.themoviedb.org/](https://www.themoviedb.org/) <br><br>
 Jenis Navigasi yang digunakan pada Aplikasi<br>
 Navigation Drawer<br><br>
 Library dari Local Database yang digunakan pada Aplikasi <br>

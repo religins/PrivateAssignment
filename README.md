@@ -18,5 +18,6 @@ Link APK <br>
 Nama : Religi Nurhidayah Sakthi <br>
 Kelas : XI RPL 1 <br>
 Nomor : 29 <br>
+Angkatan : 24 <br>
 NIS : 4810/1529.070 <br> 
 Nama Sekolah : Telkom Schools SMK Telkom Malang

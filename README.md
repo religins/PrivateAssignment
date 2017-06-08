@@ -7,6 +7,7 @@
 ![5](https://github.com/religins/PrivateAssignment/blob/master/WhatsApp%20Image%202017-05-21%20at%2002.31.36.jpeg)
 <h3>Link APK</h3>
 [link APK](https://docs.google.com/uc?export=download&id=0B7DPhAqRdxBkY2poeVNwNVZtckE)
+[link APK (mirror)](https://docs.google.com/uc?export=download&id=0B7oSPH8d9q3Fci1TdlM1V2NVRzA)
 <br><br>
 Nama : Religi Nurhidayah Sakthi <br>
 Kelas : XI RPL 1 <br>

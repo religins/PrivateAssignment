@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/PrivateAssignment.iml" filepath="$PROJECT_DIR$/PrivateAssignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrivateAssignment - Copy.iml" filepath="$PROJECT_DIR$/PrivateAssignment - Copy.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

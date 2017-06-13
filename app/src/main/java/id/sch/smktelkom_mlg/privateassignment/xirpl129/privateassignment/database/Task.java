@@ -1,7 +1,7 @@
 package id.sch.smktelkom_mlg.privateassignment.xirpl129.privateassignment.database;
 
 
-public class Task {
+public class fTask {
 
     private String myTask;
     private String date;
